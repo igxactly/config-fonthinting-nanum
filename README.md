@@ -1,5 +1,6 @@
 config-fonthinting-nanum
 ========================
+적용: 나눔고딕, 나눔명조, 나눔바른고딕, 나눔 손글씨 펜, 나눔 손글씨 붓
 
 우분투에서 발생하는 나눔글꼴 힌팅 문제를 해결하기 위한 글꼴 설정입니다. (우분투 14.04 KDE 환경에서 확인)
 configuration for fixing font hinting issue of nanum fonts family on ubuntu (tested on ubuntu 14.04 with kde)
