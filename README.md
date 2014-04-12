@@ -10,6 +10,7 @@ To apply this configuration, simply paste-and-run these commands in your termina
 
 빈 줄로 구분된 3개의 명령어임 these are three commands separated by blank lines
 
+----------------------------
 
 mkdir -p $HOME/.config/fontconfig/conf.d/
 
@@ -17,8 +18,13 @@ cd $HOME/.config/fontconfig/conf.d/
 
 wget https://raw.githubusercontent.com/igxactly/config-fonthinting-nanum/master/90-fonts-nanum.conf
 
+----------------------------
 
 
 
 
-# 추후 더 좋은 설정값이 생긴다면 pull request 해주시거나 comment를 달아 알려주세요.
+
+참고로 이 설정은 시스템 전체에 적용되는 것이 아니라 로그인된 사용자에게만 적용됩니다.
+In addition, this configuration method only affect locally on logined user, not system-wide.
+
+추후 더 좋은 설정값이 생긴다면 pull request 해주시거나 comment를 달아 알려주세요.
