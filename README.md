@@ -28,3 +28,4 @@ wget https://raw.githubusercontent.com/igxactly/config-fonthinting-nanum/master/
 In addition, this configuration method only affect locally on logined user, not system-wide.
 
 추후 더 좋은 설정값이 생긴다면 pull request 해주시거나 comment를 달아 알려주세요.
+Please notify me by a pull request or a comment, when you have got some better configuration.
